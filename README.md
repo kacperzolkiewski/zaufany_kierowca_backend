@@ -1,4 +1,4 @@
-# Zaufany Kierowca - Backend 🚗
+# 🚗 Zaufany Kierowca - Backend
 
 > **Note:** This repository does not contain the full code for the Zaufany Kierowca app. Some parts of the implementation have been omitted for privacy reasons.
 
